@@ -1,0 +1,1 @@
+Yes, all Bandwidth local phone numbers are both voice and messaging enabled.
