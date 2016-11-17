@@ -1,0 +1,31 @@
+{
+    "plugins": [
+        "theme-faq",
+        "header",
+        "sharing",
+        "customJquery@git+https://github.com/dtolb/gitbook-plugin-customJquery.git",
+        "custom-favicon",
+        "fontsettings"
+    ],
+    "pluginsConfig": {
+      "layout": {
+            "headerPath" : "layouts/header.html"
+        },
+      "customJquery": {
+        "js": "js/custom.js"
+      },
+      "favicon" : "images/favicon.ico",
+      "sharing": {
+            "facebook": false,
+            "twitter": false,
+            "google": false,
+            "weibo": false,
+            "instapaper": false,
+            "vk": false,
+            "all": [
+            "facebook", "google", "twitter",
+            "weibo", "instapaper"
+        ]
+      }
+    }
+}
