@@ -1,0 +1,1 @@
+Yes, all Bandwidth phone numbers are enabled for both voice and two-way SMS.
