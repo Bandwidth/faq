@@ -428,6 +428,9 @@ code:before, code:after{
 .text-only:before{
   display:none;
 }
+a.list-group-item:hover{
+  padding:10px 15px !important;
+}
 /*
  * Icon Font Bandwidth
  * Made with love by Icons8 [ https://icons8.com/ ] using FontCustom [ https://github.com/FontCustom/fontcustom ]
