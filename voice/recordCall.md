@@ -1,0 +1,1 @@
+Yes, you are able to record phone calls by setting the record property to true for a /calls resource either on [call creation](http://dev.bandwidth.com/ap-docs/methods/calls/postCalls.html) or [anytime while the call is live](http://dev.bandwidth.com/ap-docs/methods/calls/postCallsCallId.html). MP3 and WAV formats are both supported.

@@ -14,7 +14,6 @@
 * [Can I get back a phone number I released accidentally?](phone-number/recover-number.md)
 
 ## Messaging
-{% raw %} <a href="#messaging"/> {% endraw %}
 * [What media type is supported for MMS?](messaging/mediaType.md)
 * [Can I use Bandwidth phone numbers for SMS?](messaging/smsTwoWay.md)
 * [Can I send an SMS with a Toll Free Bandwidth number?](messaging/tollFreeSMS.md)
@@ -23,7 +22,17 @@
 * [Can I get a delivery receipt for SMS that I send?](messaging/dlrSMS.md)
 * [Can I send and receive SMS to international phone numbers?](messaging/internationalSMS.md)
 * [Can I send and receive Emoji in SMS messages?](messaging/emojiSMS.md)
+* [What Character sets can I use in SMS body?](messaging/bodyEncoding.md)
 * [Can I set the Caller Id on an outgoing message to anything I want?](messaging/customCallerId.md)
 * [Can my Bandwidth phone number send SMS to a US and Canada Short Codes?](messaging/shortCodes.md)
 * [Does Bandwidth sell or host Short Codes?](messaging/sellShortCodes.md)
 * [Can Bandwidth phone numbers send and receive Premium SMS to do things like make donations using SMS?](messaging/premiumSMS.md)
+
+## Voice
+* [How can I configure my application to get incoming phone calls?](voice/configureIncoming.md)
+* [Can I record a phone call?](voice/recordCall.md)
+* [Does Bandwidth support conference calling?](voice/conference.md)
+* [What is the difference between bridges and conferences?](voice/confBridge.md)
+* [Does Bandwidth support transcription?](voice/transcription.md)
+* [How can I stop receiving calls for a phone number?](voice/stopIncoming.md)
+* [Can I receive calls on my Bandwidth phone numbers from international callers?](voice/international.md)
