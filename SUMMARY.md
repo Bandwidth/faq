@@ -12,6 +12,7 @@
 * [How long does it take to activate a phone number before it can receive phone calls or text messages?](phone-numbers/how-long-activate.md)
 * [How can I deactivate and remove a number from my account?](phone-numbers/remove-number.md)
 * [Can I get back a phone number I released accidentally?](phone-number/recover-number.md)
+* [Can I call international numbers](phone-number/call-international.md)
 
 ## Messaging
 * [What media type is supported for MMS?](messaging/mediaType.md)
@@ -36,6 +37,10 @@
 * [Does Bandwidth support transcription?](voice/transcription.md)
 * [How can I stop receiving calls for a phone number?](voice/stopIncoming.md)
 * [Can I receive calls on my Bandwidth phone numbers from international callers?](voice/international.md)
+
+
+## TD
+* [How did i get here?](td/how-did-i-get-here.md)
 
 ## Demo Question
 * [How can I add questions to the faq](demo-questions/demo-answer.md)
