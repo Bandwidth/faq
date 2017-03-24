@@ -16,3 +16,5 @@ _book
 *.pdf
 
 tmp_md.md
+
+docs/docs
