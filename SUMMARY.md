@@ -1,7 +1,7 @@
 # Summary
 
 ## General
-* [What types of applications can I build with the Bandwidth App Platform?](general/what-types-of-applications.md)
+* [What types of applications can I build with Bandwidth Voice and Messaging APIs?](general/what-types-of-applications.md)
 * [What exactly does direct-to-carrier mean?](general/direct-to-carrier.md)
 * [How do I get in touch with someone on the Bandwidth sales team?](general/contact-sales.md)
 * [I don’t see a feature I am looking for, where can I ask about it?](general/new-features.md)
