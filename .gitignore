@@ -19,3 +19,7 @@ tmp_md.md
 
 docs/docs
 .nvmrc
+
+my_project
+deploy_key
+deploy_key.pub
