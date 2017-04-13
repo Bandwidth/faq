@@ -18,6 +18,7 @@
 
 ## Import Numbers
 
+* [How to I import external phone numbers to use with messaging hub?](import-numbers/how-to-i-import-external-phone-numbers-to-use-with-messaging-hub.md)
 * [How do I import numbers from the dashboard to use for voice or messaging?](import-numbers/how-do-i-import-numbers-from-the-dashboard-to-use-for-voice-or-messaging.md)
 
 ## Messaging
