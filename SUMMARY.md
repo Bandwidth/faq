@@ -11,7 +11,7 @@
 ## Phone Numbers
 
 * [Are Bandwidth local phone numbers voice and messaging enabled?](phone-numbers/voice-messaging.md)
-* [Can I get a toll free phone numbers from Bandwidth?](phone-numbers/toll-free.md)
+* [Can I get a toll free phone numbers from Bandwidth?](phone-numbers/tollfree.md)
 * [How long does it take to activate a phone number before it can receive phone calls or text messages?](phone-numbers/how-long-activate.md)
 * [How can I deactivate and remove a number from my account?](phone-numbers/remove-number.md)
 * [Can I get back a phone number I released accidentally?](phone-number/recover-number.md)
@@ -36,6 +36,8 @@
 * [Can my Bandwidth phone number send SMS to a US and Canada Short Codes?](messaging/shortCodes.md)
 * [Does Bandwidth sell or host Short Codes?](messaging/sellShortCodes.md)
 * [Can Bandwidth phone numbers send and receive Premium SMS to do things like make donations using SMS?](messaging/premiumSMS.md)
+* [How long does Bandwidth retain messages?](messaging/retainSMS.md)
+* [How long does Bandwidth retain incoming message media (MMS)?](messaging/retainMMS.md)
 
 ## Voice
 
