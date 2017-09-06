@@ -1,0 +1,1 @@
+Bandwidth keeps messages sent with the v1 api for 30days. After 30 days, you will no longer be able to fetch that particular message.

@@ -36,6 +36,8 @@
 * [Can my Bandwidth phone number send SMS to a US and Canada Short Codes?](messaging/shortCodes.md)
 * [Does Bandwidth sell or host Short Codes?](messaging/sellShortCodes.md)
 * [Can Bandwidth phone numbers send and receive Premium SMS to do things like make donations using SMS?](messaging/premiumSMS.md)
+* [How long does Bandwidth retain messages?](messaging/retainSMS.md)
+* [How long does Bandwidth retain incoming message media (MMS)?](messaging/retainMMS.md)
 
 ## Voice
 

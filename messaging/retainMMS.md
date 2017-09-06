@@ -1,0 +1,1 @@
+Bandwidth keeps message media for 30 days at minimum. Be sure to fetch and save any media you want to keep before the 30 days are up.
