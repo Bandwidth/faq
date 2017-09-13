@@ -9,6 +9,9 @@ body *{
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
+.navbar-brand {
+  height:100px;
+}
 .head{
   display: block;
   height:70px;
