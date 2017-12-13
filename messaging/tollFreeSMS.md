@@ -1,1 +1,1 @@
-Yes, you can, but you will need to first order a Toll-Free number, then <a href="https://catapult.inetwork.com/pages/support/">open a ticket</a> asking to enable the number. Toll Free numbers are not automatically SMS enabled.
+Yes, you can, but you will need to first order a Toll-Free number. Toll free numbers are automatically enabled with SMS.
