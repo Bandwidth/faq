@@ -2,7 +2,7 @@
     "plugins": [
         "theme-faq",
         "header",
-        "customJquery@git+https://github.com/dtolb/gitbook-plugin-customJquery.git",
+        "custom-jquery-postprocessing",
         "custom-favicon",
         "fontsettings"
     ],
