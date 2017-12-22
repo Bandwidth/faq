@@ -14,7 +14,7 @@
 * [Can I get a toll free phone numbers from Bandwidth?](phone-numbers/tollfree.md)
 * [How long does it take to activate a phone number before it can receive phone calls or text messages?](phone-numbers/how-long-activate.md)
 * [How can I deactivate and remove a number from my account?](phone-numbers/remove-number.md)
-* [Can I get back a phone number I released accidentally?](phone-number/recover-number.md)
+* [Can I get back a phone number I released accidentally?](phone-numbers/recover-number.md)
 
 ## Import Numbers
 
