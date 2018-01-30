@@ -1,1 +1,1 @@
-We support two-way SMS to many countries throughout the globe for invoiced accounts.  If you would like details about our international SMS services, please contact us at (855) 290-8135 or [email sales](http://bandwidth.com/marketo#_ga=1.29273471.29020212.1414441420).
+We are able to support two-way SMS to many countries throughout the globe. If you would like details about our international SMS services, please contact us at 855-290-8135 or send us an [email at `letstalk@bandwidth.com`](mailto:letstalk@bandwidth.com)
