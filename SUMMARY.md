@@ -38,6 +38,9 @@
 * [Can Bandwidth phone numbers send and receive Premium SMS to do things like make donations using SMS?](messaging/premiumSMS.md)
 * [How long does Bandwidth retain messages?](messaging/retainSMS.md)
 * [How long does Bandwidth retain incoming message media (MMS)?](messaging/retainMMS.md)
+* [Are delivery receipts supported for MMS?](messaging/dlrMMS.md)
+* [Can Toll Free numbers send MMS meesages or messages to Short Codes?](messaging/tollfreeMMS.md)
+* [If I send a long SMS (160+ characters), will the message be parted out and will I be charged for each part of the message?](messaging/longSMS.md)
 
 ## Voice
 
@@ -48,8 +51,12 @@
 * [Does Bandwidth support transcription?](voice/transcription.md)
 * [How can I stop receiving calls for a phone number?](voice/stopIncoming.md)
 * [Can I receive calls on my Bandwidth phone numbers from international callers?](voice/international.md)
+* [In the event that a call gets forwarded before it reaches my number, will I be able to see all numbers involved on the call?](voice/forwards.md)
+* [What is the maximum amount of characters I can use in an X-header?](voice/xheaders.md)
+
 
 ## Applications
 
 * [How are incoming callback timeouts measured?](applications/timeouts.md)
+* [How many times will Bandwidth send my application a request before it fails?](applications/retries.md)
 

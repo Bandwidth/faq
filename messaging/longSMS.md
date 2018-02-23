@@ -1,0 +1,1 @@
+If you send a message that contains more than 160 characters, your message will be split up into multiple parts. You will only be charged for one message and the message will be re-assembled before it reaches the destination handset.
