@@ -2,9 +2,7 @@
     "plugins": [
         "theme-faq",
         "header",
-        "custom-jquery-postprocessing",
-        "custom-favicon",
-        "fontsettings"
+        "custom-jquery-postprocessing"
     ],
     "pluginsConfig": {
       "layout": {
@@ -12,7 +10,6 @@
         },
       "customJquery": {
         "js": "js/custom.js"
-      },
-      "favicon" : "images/favicon.ico"
+      }
     }
 }
