@@ -53,6 +53,7 @@
 * [Can I receive calls on my Bandwidth phone numbers from international callers?](voice/international.md)
 * [In the event that a call gets forwarded before it reaches my number, will I be able to see all numbers involved on the call?](voice/forwards.md)
 * [What is the maximum amount of characters I can use in an X-header?](voice/xheaders.md)
+* [How long does Bandwidth retain phone call recordings?](voice/callRecordings.md)
 
 
 ## Applications
