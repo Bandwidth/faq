@@ -1,0 +1,1 @@
+No, you can not receive a MMS from an international number. An international number is any number that does not begin with `+1`.

@@ -39,8 +39,9 @@
 * [How long does Bandwidth retain messages?](messaging/retainSMS.md)
 * [How long does Bandwidth retain incoming message media (MMS)?](messaging/retainMMS.md)
 * [Are delivery receipts supported for MMS?](messaging/dlrMMS.md)
-* [Can Toll Free numbers send MMS meesages or messages to Short Codes?](messaging/tollfreeMMS.md)
+* [Can Toll Free numbers send MMS messages or messages to Short Codes?](messaging/tollfreeMMS.md)
 * [If I send a long SMS (160+ characters), will the message be parted out and will I be charged for each part of the message?](messaging/longSMS.md)
+* [Can I **receive** MMS (picture messages) from international numbers to a Bandwidth Number](messaging/receiveInternationalMMS.md)
 
 ## Voice
 
