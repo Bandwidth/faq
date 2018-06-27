@@ -1,1 +1,1 @@
-International characters: Currently we support only the GSM 7 bit character set (GSM 03.38) .
+International characters: Currently we support ASCII + UCS2 characters as well as UTF8.
