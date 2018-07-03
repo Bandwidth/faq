@@ -1,2 +1,1 @@
-A bridge is between two calls and a conference is used for 3 or more calls.
-
+A bridge is between two calls. A conference is between 3 or more calls.

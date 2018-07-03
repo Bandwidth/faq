@@ -1,4 +1,4 @@
-Yes, Bandwidth phone numbers can receive inbound calls from most international callers.
+Yes, Bandwidth phone numbers can receive [inbound calls](https://www.bandwidth.com/voice/#overview2) from most international callers.
 
 However, there is a list of areas codes that are not supported for voice service on our network. Please read the full list.
 
