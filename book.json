@@ -2,7 +2,8 @@
     "plugins": [
         "theme-faq",
         "header",
-        "custom-jquery-postprocessing"
+        "custom-jquery-postprocessing",
+        "usabilla"
     ],
     "pluginsConfig": {
       "layout": {
@@ -10,6 +11,9 @@
         },
       "customJquery": {
         "js": "js/custom.js"
-      }
+        },
+      "usabilla" : {
+        "usabillaId" : "73009503da29"
+        }
     }
 }
