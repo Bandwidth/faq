@@ -1,1 +1,1 @@
-We are able to support two-way SMS to many countries throughout the globe. If you would like details about our international SMS services, please contact us at 855-290-8135 or send us an [email at `letstalk@bandwidth.com`](mailto:letstalk@bandwidth.com)
+Bandwidth offers local and toll-free phone numbers for the US and Canada only, but can deliver messages worldwide. If you would like details about our international SMS services, please contact us at 855-290-8135 or [send us an email](mailto:letstalk@bandwidth.com).
