@@ -1,1 +1,1 @@
-No, Toll Free numbers can only send SMS messages.
+No, toll-free numbers can only send SMS messages.
