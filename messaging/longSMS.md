@@ -1,4 +1,2 @@
-If I send a long SMS (160+ characters), will the message be parted out and will I be charged for each part of the message?
-
 Yes. If you send a message that contains more than 160 characters, Bandwidth will split the message into parts in order to send them to carriers. The carriers will then reassemble the parts and display as a single message on most handsets.
 You will be charged per message sent to carriers, not per request. For example, if you send a message with 240 characters to a US mobile number, the message will be split up into 2 parts (based on encoding used). Bandwidth will be sending 2 messages to the destination carrier and you will be charged for 2 messages.
