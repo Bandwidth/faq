@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "theme-faq",
+        "bandwidth-theme-faq",
         "header",
         "custom-jquery-postprocessing",
         "usabilla"
