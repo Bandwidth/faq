@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "theme-faq",
+        "theme-faq-2",
         "header",
         "custom-jquery-postprocessing",
         "usabilla"
