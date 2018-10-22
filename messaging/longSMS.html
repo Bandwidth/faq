@@ -241,8 +241,20 @@
                     <li class="active">If I send a long SMS (160+ characters), will the message be parted out and will I be charged for each part of the message?</li>
                 </ol>
                 <div class="faq-page">
-                <p>Yes. If you send a message that contains more than 160 regular characters, Bandwidth will split the message into parts in order to send them to carriers. The carriers will then reassemble the parts and display as a single message on most handsets.
-You will be charged per message sent to carriers, not per request. For example, if you send a message with 240 regular characters to a US mobile number, the message will be split up into 2 parts (based on encoding used). Bandwidth will be sending 2 messages to the destination carrier and you will be charged for 2 messages.</p>
+                <p>If you send a message that contains more than 160 characters, your message will be split up into multiple parts. The message will be re-assembled before it reaches the destination handset.</p>
+<p>You will will be billed for each segment of 160 characters for standard messages and billed for each segment of 70 characters if your message contains any unicode characters such as Emoji&apos;s (&#x1F600;, &#x1F60E;, etc...).</p>
+<h3 id="example-1-of-3">Example 1 of 3:</h3>
+<p>How will a standard message be billed</p>
+<pre><code>&quot;What is cooler than a unicorn that can shoot lasers? This test message, thats what!&quot;
+</code></pre><p>83 characters = 1 segment</p>
+<h3 id="example-2-of-3">Example 2 of 3:</h3>
+<p>How will a message with Emoji&apos;s be billed :</p>
+<pre><code>&quot;What is cooler than a unicorn &#x1F984; that can shoot lasers? This test message, thats what!&quot;
+</code></pre><p>84 characters = 2 segments of up to 70 characters each.</p>
+<h3 id="example-3-of-3">Example 3 of 3:</h3>
+<p>How will a long message be billed:</p>
+<pre><code>&quot;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&quot;
+</code></pre><p>191 characters = 2 segments of up to 160 characters each.</p>
 
                 </div>
             </div>
@@ -257,7 +269,7 @@ You will be charged per message sent to carriers, not per request. For example, 
     
     <div class="faq-page-footer">
         <a href="https://www.gitbook.com" target="_blank">Published with GitBook</a> &#xB7;
-        <span>Last edit October 15th 2018</span>
+        <span>Last edit October 22nd 2018</span>
     </div>
     
 
@@ -314,7 +326,7 @@ You will be charged per message sent to carriers, not per request. For example, 
 
 <script>
 (function() {
-    gitbook.page.hasChanged({"page":{"title":"If I send a long SMS (160+ characters), will the message be parted out and will I be charged for each part of the message?","level":"4.18","depth":1,"next":{"title":"Can I receive MMS (picture messages) from international numbers to a Bandwidth Number","level":"4.19","depth":1,"path":"messaging/receiveInternationalMMS.md","ref":"messaging/receiveInternationalMMS.md","articles":[]},"previous":{"title":"Can toll-free numbers send MMS messages or messages to Short Codes?","level":"4.17","depth":1,"path":"messaging/tollfreeMMS.md","ref":"messaging/tollfreeMMS.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["theme-faq-2","header","custom-jquery-postprocessing","usabilla"],"pluginsConfig":{"custom-jquery-postprocessing":{},"search":{},"layout":{"headerPath":"layouts/header.html"},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"header":{},"customJquery":{"js":"js/custom.js"},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"usabilla":{"usabillaId":"73009503da29"},"theme-faq-2":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"messaging/longSMS.md","mtime":"2018-10-15T14:03:57.630Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-10-15T14:05:05.029Z"},"basePath":"..","book":{"language":""}})
+    gitbook.page.hasChanged({"page":{"title":"If I send a long SMS (160+ characters), will the message be parted out and will I be charged for each part of the message?","level":"4.18","depth":1,"next":{"title":"Can I receive MMS (picture messages) from international numbers to a Bandwidth Number","level":"4.19","depth":1,"path":"messaging/receiveInternationalMMS.md","ref":"messaging/receiveInternationalMMS.md","articles":[]},"previous":{"title":"Can toll-free numbers send MMS messages or messages to Short Codes?","level":"4.17","depth":1,"path":"messaging/tollfreeMMS.md","ref":"messaging/tollfreeMMS.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["theme-faq-2","header","custom-jquery-postprocessing","usabilla"],"pluginsConfig":{"custom-jquery-postprocessing":{},"search":{},"layout":{"headerPath":"layouts/header.html"},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"header":{},"customJquery":{"js":"js/custom.js"},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"usabilla":{"usabillaId":"73009503da29"},"theme-faq-2":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"messaging/longSMS.md","mtime":"2018-10-22T19:37:06.410Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-10-22T19:38:10.185Z"},"basePath":"..","book":{"language":""}})
 })();
 </script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
