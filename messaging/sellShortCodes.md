@@ -1,3 +1,1 @@
-No, not at this time. Bandwidth provides virtual local and toll-free phone numbers for apps needing two-way SMS/MMS. Toll-free numbers do not come sms enabled, so please [open a ticket](https://catapult.inetwork.com/pages/support/#_ga=1.240500928.29020212.1414441420) with us to enable them.
-
-
+No, not at this time. Bandwidth provides virtual local and toll-free phone numbers for apps needing two-way SMS/MMS. Toll-Free numbers do not come sms enabled, so please [open a ticket](https://support.bandwidth.com/hc/en-us/restricted?return_to=https%3A%2F%2Fsupport.bandwidth.com%2Fhc%2Fen-us%2Frequests%2Fnew) with us to enable them.
