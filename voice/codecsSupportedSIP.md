@@ -1,0 +1,1 @@
+PCMU, PCMA, and GSM
