@@ -42,6 +42,9 @@
 * [Can toll-free numbers send MMS messages or messages to Short Codes?](messaging/tollfreeMMS.md)
 * [If I send a long SMS (160+ characters), will the message be parted out and will I be charged for each part of the message?](messaging/longSMS.md)
 * [Can I **receive** MMS (picture messages) from international numbers to a Bandwidth Number](messaging/receiveInternationalMMS.md)
+* [What is the maximum file size that can be sent with MMS messages that will not need any compression / transcoding before sending the message?](messaging/mmsTranscoding.md)
+* [Is there a means to find out programmatically what is the destination carrier's maximum file size for MMS messages?](messaging/mmsCarrierFileSize.md)
+* [Is there a list of maximum file sizes for MMS messages for the major carriers in USA and Canada?](messaging/mmsFileSizeByCarrier.md)
 
 ## Voice
 
