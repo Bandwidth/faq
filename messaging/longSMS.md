@@ -2,6 +2,12 @@ If you send a message that contains more than 160 characters, your message will 
 
 You will will be billed for each segment of 160 characters for standard messages and billed for each segment of 70 characters if your message contains any unicode characters such as Emoji's (😀, 😎, etc...).
 
+If a message will be sent as more than 1 segment, the segments are limited to 153 characters for standard messages, and 67 characters for messages with unicode characters.
+
+SMS [callbacks](https://dev.bandwidth.com/ap-docs/apiCallbacks/messagingEvents.html) along with the [responses](https://dev.bandwidth.com/ap-docs/methods/messages/postMessages.html) from sending an SMS include a "segmentCount" field that lets you know the number of segments that the message had.
+
+MMS messages will always be sent as 1 segment.
+
 ### Example 1 of 3:
 
 How will a standard message be billed
